@@ -11,7 +11,7 @@ Document hands-on learning in Linux and organize course notes by module.
 
 ## 📚 Modules
 
-- [Module 01 - Filesystem & Commands](modules/module01/README.md)
+- [Module 01 - Filesystem & Commands](modules/module-01-filesystem-commands/README.md)
 - Module 02 - In progress...
 - Module 03 - Future modules...
 
