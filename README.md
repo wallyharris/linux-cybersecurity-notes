@@ -1,8 +1,7 @@
 # 🐉 Cybersecurity Linux Lab
 
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-red)
+![Linux](https://img.shields.io/badge/Linux-Kali_Linux-purple)
 ![Focus](https://img.shields.io/badge/Focus-Cybersecurity-darkred)
-![Mode](https://img.shields.io/badge/Mode-Red%20Team-black)
 ![Status](https://img.shields.io/badge/Status-Active-green)
 
 ---
@@ -48,14 +47,23 @@ Train real operational Linux skills used in cybersecurity environments:
 
 ## ⚙️ ACTIVE MODULES
 
-### 🗂️ Module 01 — Filesystem & Commands
+### 🗂️ [Module 01 — Filesystem & Commands](modules/module-01-filesystem-commands/)
 Linux navigation, file structure, and command-line fundamentals.
 
-### 🔐 Module 02 — User Management & Packages
-System administration and access control (in progress).
+### ⚙️ Module 02 — User, Group, and Process Management
+(in progress).
 
-### ⚙️ Module 03 — Shell Scripting
-Automation and task execution using Bash (planned).
+### ⚙️ Module 03 — Pipes, Logs and Connectivity
+(in progress).
+
+### ⚙️ Module 04 — Automation with Shell Script
+(in progress).
+
+### ⚙️ Module 05 — Pipes, Logs and Connectivity
+(in progress).
+
+### ⚙️ Module 06 — Penetration testing with Kali Linux
+(in progress).
 
 ---
 
