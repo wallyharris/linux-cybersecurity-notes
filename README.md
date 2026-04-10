@@ -1,30 +1,112 @@
-# Linux for Cybersecurity Notes
+# 🐉 Cybersecurity Linux Lab
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Progress: Module 1](https://img.shields.io/badge/Progress-Module%201-blue.svg)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-red)
+![Focus](https://img.shields.io/badge/Focus-Cybersecurity-darkred)
+![Mode](https://img.shields.io/badge/Mode-Red%20Team-black)
+![Status](https://img.shields.io/badge/Status-Active-green)
 
-This repository contains my study notes from a Linux for Cybersecurity course, focusing on system administration, command line usage, and cybersecurity fundamentals.
+---
 
-## 🎯 Objective
+## ⚔️ SYSTEM OVERVIEW
 
-Document hands-on learning in Linux and organize course notes by module.
+> A controlled Linux environment designed for cybersecurity training, system analysis, and automation practice.
 
-## 📚 Modules
+This repository simulates a **security-focused Linux lab environment**, inspired by professional penetration testing workflows.
 
-- [Module 01 - Filesystem & Commands](modules/module-01-filesystem-commands/README.md)
-- Module 02 - In progress...
-- Module 03 - Future modules...
+---
 
-## 🛠️ Technologies
+## 🧠 MISSION
 
-- Linux (Ubuntu)
-- Bash
-- VirtualBox
+Train real operational Linux skills used in cybersecurity environments:
 
-## 🤝 Contributing
+- System exploration and control  
+- File permissions and privilege structure  
+- Automation through Bash scripting  
+- System monitoring and analysis  
+- Defensive security mindset  
 
-Feel free to open issues or submit pull requests to improve notes, add examples or scripts.
+---
 
-## 📄 License
+## 🐧 ENVIRONMENT
 
-This project is licensed under the MIT License.
+| Component | Stack |
+|----------|------|
+| OS | Ubuntu Server |
+| Shell | Bash |
+| Virtualization | VirtualBox |
+| Focus | Cybersecurity Lab |
+
+---
+
+## 📁 LAB STRUCTURE
+
+- `modules/` → structured Linux learning path  
+- `scripts/` → automation & system tools  
+- `assets/` → terminal screenshots and evidence  
+
+---
+
+## ⚙️ ACTIVE MODULES
+
+### 🗂️ Module 01 — Filesystem & Commands
+Linux navigation, file structure, and command-line fundamentals.
+
+### 🔐 Module 02 — User Management & Packages
+System administration and access control (in progress).
+
+### ⚙️ Module 03 — Shell Scripting
+Automation and task execution using Bash (planned).
+
+---
+
+## 🛠️ PRACTICAL TOOLS
+
+### 🗂️ Backup Automation
+Timestamped backup system for directories.
+
+### 🗜️ Compression Utility
+File compression and archive generation.
+
+### 📊 System Monitor
+Real-time CPU, memory, and disk usage analysis.
+
+---
+
+## 🧠 CORE SKILLS
+
+- Linux filesystem architecture (FHS)  
+- File permissions and ownership  
+- Terminal efficiency and shortcuts  
+- Bash scripting fundamentals  
+- System diagnostics and monitoring  
+- Cybersecurity operational mindset  
+
+---
+
+## 📸 EVIDENCE BASE
+
+All commands and outputs are documented using real terminal screenshots stored in the `assets/` directory.
+
+---
+
+## 📈 OPERATIONAL STATUS
+
+> This lab is actively maintained and continuously evolving.
+
+✔ Daily Linux practice  
+✔ Script development and improvement  
+✔ Structured cybersecurity learning path  
+✔ Real terminal-based experimentation  
+
+---
+
+## ⚠️ DISCLAIMER
+
+This project is strictly for educational purposes only.  
+No real-world exploitation or unauthorized access is performed.
+
+---
+
+## 📜 LICENSE
+
+MIT License
