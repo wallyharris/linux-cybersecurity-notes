@@ -31,7 +31,7 @@ Train real operational Linux skills used in cybersecurity environments:
 
 | Component | Stack |
 |----------|------|
-| OS | Ubuntu Server |
+| OS | Kali Linux |
 | Shell | Bash |
 | Virtualization | VirtualBox |
 | Focus | Cybersecurity Lab |
